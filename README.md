@@ -1,2 +1,2 @@
 # .bap-file
-scp id_rsa.pub USER@IP:/home/USER/
+www.github.com/luckymannme/MyServer.git
